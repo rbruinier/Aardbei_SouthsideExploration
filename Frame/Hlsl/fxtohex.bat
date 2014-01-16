@@ -1,0 +1,1 @@
+@fxc /E%1 /Tps_2_0 /Fhps%2.h %2.fx
